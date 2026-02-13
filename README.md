@@ -73,7 +73,7 @@ src/
 
 Feel free to reach out if you're looking for a developer, have a question, or just want to connect.
 
-*   **Email**: [rahulmahato1190@gmail.com](mailto:rahulmahato1190@gmail.com)
+*   **Email**: [msrrahulmahato@gmail.com](mailto:msrrahulmahato@gmail.com)
 *   **LinkedIn**: [Rahul Mahato](https://www.linkedin.com/in/rahul-mahato-0b1534254)
 *   **GitHub**: [@Rxhulmxhxto29](https://github.com/Rxhulmxhxto29)
 
